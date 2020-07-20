@@ -1,1 +1,3 @@
 # 007forArt
+<p>The project consists of the development of an escape room based on the story of the Italian monuments man Rodolfo Siviero and a digital exhibition of Rodolfo Siviero's art collection. The escape room is located in the Casa Museo Rodolfo Siviero, Florence.
+We have chosen Rodolfo Siviero because his story and the story of the Italian Monunents Men is almost unknown. Moreover, Casa Siviero is little known even among the Florentines and it needs a promotional project. Finally, the works of art recovered by Siviero during his career are kept in different places in Italy and abroad.</p>
